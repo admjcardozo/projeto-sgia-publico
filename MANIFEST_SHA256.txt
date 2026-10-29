@@ -1,7 +1,7 @@
 Manifesto SHA-256 — Pacote de divulgação seletiva SGIA v1.0
-Gerado em 29/10/2026. Os hashes abaixo referem-se aos bytes de cada arquivo, antes da compactação.
+Atualizado em 29/10/2026. Os hashes abaixo referem-se aos bytes de cada arquivo publicado, antes da compactação.
 
 67520dfec01f8155c4b52c835a9d668000a669a539c4555dffeccf0f4eba1d19  LICENSE.md
-7a8ba27ef33e69cfee5e37ba1ec5e531157b3310dda2d0eae4343fcb934c3539  README.md
-731dd26d3c7637b8943fae18556d37b3c1c65acc889e7f8e12c5a7bea952cf8a  assets/capa-projeto.svg
+1d5fa22b745bbf2c16b73f5c5fbb80bed4da9704468ad2520b9a11d8b0b1df74  README.md
+638ab4d9d26ec38b43c34cfdc1e18e97835414ab4e620ddbed854b32d7c031f1  infografico-geral-sgia.png
 e5a3a3cdd2bfb42750afa88b8be82f03fd16d17174302c9a18647efbd52c7917  docs/visao-geral-e-limites.md
