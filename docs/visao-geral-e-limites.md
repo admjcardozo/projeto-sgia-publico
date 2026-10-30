@@ -6,11 +6,11 @@
 
 ## Objetivo
 
-Apresentar uma arquitetura de referência para organizar a preparação e a gestão de um SGIA, conectando governança, riscos, ciclo de vida técnico, dados, supervisão humana, segurança, transparência, desempenho e melhoria.
+Organizei uma arquitetura de referência para estruturar a preparação e a gestão de um SGIA. Os módulos conectam governança, riscos, ciclo de vida técnico, dados, supervisão humana, segurança, transparência, desempenho e melhoria.
 
 ## Abordagem
 
-A arquitetura é organizada em dez módulos integrados. A intenção é permitir que uma organização, em um cenário futuro de aplicação, avalie o contexto, estabeleça responsabilidades, selecione controles proporcionais ao risco, defina evidências e testes de eficácia e mantenha rastreabilidade das decisões.
+Dividi a arquitetura em dez módulos integrados. Com essa organização, uma organização que venha a utilizar o modelo poderá avaliar seu contexto, estabelecer responsabilidades, selecionar controles proporcionais aos riscos, definir evidências e testes de eficácia e manter o histórico das decisões.
 
 A estrutura metodológica não substitui a análise do contexto nem autoriza a adoção automática de todos os procedimentos. Antes de uso operacional, cada atividade precisa ser examinada quanto a objetivo, aplicabilidade, risco, responsável, evidência, critério de aceitação e aprovação.
 
