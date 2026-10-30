@@ -9,7 +9,7 @@
 
 ## Apresentação
 
-Este projeto organiza uma abordagem conceitual para planejar e orientar a implementação de um Sistema de Gestão de Inteligência Artificial (SGIA). A proposta conecta governança, contexto organizacional, riscos e impactos, ciclo de vida dos sistemas de IA, dados, transparência, supervisão humana, segurança, avaliação de desempenho e melhoria contínua.
+Neste trabalho, organizei uma abordagem conceitual para planejar um Sistema de Gestão de Inteligência Artificial (SGIA). A estrutura reúne governança, contexto organizacional, riscos e impactos, ciclo de vida dos sistemas de IA, dados, transparência, supervisão humana, segurança, avaliação de desempenho e melhoria contínua.
 
 O material foi elaborado como referência técnica conceitual. Ele pode apoiar estudos, planejamento e desenho de processos, mas precisa ser adaptado e avaliado antes de qualquer uso operacional.
 
@@ -30,7 +30,7 @@ O material foi elaborado como referência técnica conceitual. Ele pode apoiar e
 
 ## Como interpretar as referências
 
-A ISO/IEC 42001:2023 é a referência central indicada para a arquitetura. A menção a uma norma ou framework não significa que todos os seus requisitos foram validados, que cada referência é aplicável a todos os casos ou que o projeto demonstra conformidade.
+Adotei a ISO/IEC 42001:2023 como referência central da arquitetura. A menção a uma norma ou framework não significa que todos os seus requisitos foram validados, que cada referência é aplicável a todos os casos ou que o projeto demonstra conformidade.
 
 Este pacote de divulgação seletiva apresenta a arquitetura e os limites metodológicos. Ele **não inclui a matriz operacional integral, o crosswalk detalhado de 102 atividades, documentos Word de origem nem conteúdo integral de normas protegidas**. A validação cláusula a cláusula da ISO/IEC 42001:2023 foi expressamente excluída do escopo deste trabalho; portanto, não se afirma que ela tenha sido realizada.
 
